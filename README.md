@@ -1,0 +1,3 @@
+- 👋 I'm Ben, an aspiring Software Developer and a full-time apprentice.
+- 💞️ I love frontend development.
+- 🌱 I'm currently learning JavaScript, Java and React
