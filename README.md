@@ -1,3 +1,1 @@
-- 👋 I'm Ben, an aspiring Software Developer and a full-time apprentice.
-- 💞️ I love frontend development.
-- 🌱 I'm currently learning JavaScript, Java and React
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys)](https://github.com/anuraghazra/github-readme-stats)
