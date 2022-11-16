@@ -13,4 +13,3 @@
         <h1 style="font-size: 18px">Currently learning:</h1>
     </div>
 </div>
-![](https://komarev.com/ghpvc/?username=conwys)
