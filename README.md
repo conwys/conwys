@@ -1,6 +1,6 @@
 <img src="profile.png" alt="resonate logo">
+![](https://komarev.com/ghpvc/?username=conwys&style=flat-square)
 <div class="info-container">
-    ![](https://komarev.com/ghpvc/?username=conwys&style=flat-square)
     <div class="tech-stack-container">
         <h1 style="font-size: 18px">Current tech stack:</h1>
     </div>
