@@ -1,4 +1,4 @@
-<img src="profile.png" alt="resonate logo">
+<img src="Ben-Lloyd.png" alt="banner">
 <div class="info-container">
     <div class="tech-stack-container">
         <h1 style="font-size: 18px">Current tech stack:</h1>
