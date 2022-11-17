@@ -6,14 +6,15 @@
     <div class="about-me-info">
         <p>I'm Ben, an 18 year old DTS Apprentice 💻 currently working at <a href="https://www.resonate.tech/">Resonate Ltd</a> and enrolled
             in <a href="https://www.schoolofcode.co.uk/">School of Code Bootcamp 13 🔭<br></a>
-        I specialise in Frontend development, but I'm hoping to become a Full-Stack developer in the future.
+        I specialise in Frontend development, but I'm hoping to become a Full-Stack developer in the future.</p>
+        <h3 align="center">Connect with me 🤝</h3>
     </div>
 </div>
 <br>
 <br>
 <div class="info-container" align="center">
     <div class="tech-stack-container">
-        <h3>Current tech stack:</h3>
+        <h3>Skills 💼</h3>
     </div>
     <div class="tech-stack-logos">
         <img src="./images/icons8-javascript-50.png" alt="JS">
@@ -28,7 +29,7 @@
     </div>
 <br>
     <div class="learning">
-        <h3>Currently learning:</h3>
+        <h3>What I'm learning 🌱</h3>
     </div>
     <div class="learning-stack-container">
         <img src="./images/icons8-lua-language-50.png">
