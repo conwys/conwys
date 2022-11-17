@@ -35,5 +35,9 @@
         <img src="./images/icons8-lua-language-50.png">
     </div>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=default)
+<br>
+<br>
+<div class="stat-container" align="center">
+    <h3>GitHub Stats 📈</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=default" align="center" alt="GitHub Stats">
+</div>
