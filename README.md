@@ -34,4 +34,7 @@
     <div class="learning-stack-container">
         <img src="./images/icons8-lua-language-50.png">
     </div>
+    <div class="git-stats-container" align="center">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=prussian)
+    </div>
 </div>
