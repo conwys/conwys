@@ -35,5 +35,5 @@
         <img src="./images/icons8-lua-language-50.png">
     </div>
 </div>
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=prussian)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=prussian)
