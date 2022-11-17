@@ -19,6 +19,9 @@
         <img src="javascript.png" alt="JS">
         <img src="react.png" alt="React">
         <img src="icons8-postgresql-50.png" alt="PostgreSQL">
+        <img src="icons8-css3-50.png" alt="CSS">
+        <img src="icons8-html-5-50.png" alt="HTML">
+        <img src="icons8-node-js-50.png" alt="NodeJS">
     </div>
 <br>
     <div class="learning">
