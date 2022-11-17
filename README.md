@@ -36,4 +36,4 @@
     </div>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=default)
