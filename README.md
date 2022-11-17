@@ -1,4 +1,4 @@
-<img src="Ben-Lloyd.png" alt="banner">
+<img src="./images/Ben-Lloyd.png" alt="banner">
 <div class="about-me-container">
     <div class="about-me-header"  align="center">
         <h1><b>Hi! 👋</b></h1>
@@ -16,18 +16,21 @@
         <h3>Current tech stack:</h3>
     </div>
     <div class="tech-stack-logos">
-        <img src="javascript.png" alt="JS">
-        <img src="react.png" alt="React">
-        <img src="icons8-postgresql-50.png" alt="PostgreSQL">
-        <img src="icons8-css3-50.png" alt="CSS">
-        <img src="icons8-html-5-50.png" alt="HTML">
-        <img src="icons8-node-js-50.png" alt="NodeJS">
+        <img src="./images/icons8-javascript-50.png" alt="JS">
+        <img src="./images/icons8-react-native-50.png" alt="React">
+        <img src="./images/icons8-postgresql-50.png" alt="PostgreSQL">
+        <img src="./images/icons8-css3-50.png" alt="CSS">
+        <img src="./images/icons8-html-5-50.png" alt="HTML">
+        <img src="./images/icons8-node-js-50.png" alt="NodeJS">
+        <img src="./images/icons8-git-50.png" alt="Git">
+        <img src="./images/icons8-github-50.png" alt="GitHub">
+        <img src="./images/icons8-postman-api-50.png" alt="Postman">
     </div>
 <br>
     <div class="learning">
         <h3>Currently learning:</h3>
     </div>
     <div class="learning-stack-container">
-        <img src="icons8-lua-language-50.png">
+        <img src="./images/icons8-lua-language-50.png">
     </div>
 </div>
