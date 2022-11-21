@@ -39,7 +39,7 @@
 <br>
 <div class="stat-container" align="center">
     <h3>GitHub Stats 📈</h3>
-    <img src="https://streak-stats.demolab.com/?user=conwys" align="center" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=conwys&show_icons=true&theme=default" align="center" alt="GitHub Stats">
     <br>
     <br>
     <img src="https://api.visitorbadge.io/api/VisitorHit?user=conwys&repo=github-visitors-badge&countColor=%235194f0" alt="Visitors">
