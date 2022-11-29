@@ -10,6 +10,13 @@
         <h3 align="center">Connect with me 🤝</h3>
     </div>
 </div>
+
+<div align="center">
+    <a href="https://linkedin.com/in/benll6yd/"><img src="https://img.shields.io/badge/LinkedIn-benll6yd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+    <a href="https://codewars.com/users/conwys"><img src="https://img.shields.io/badge/CodeWars-conwys-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E"></a>
+    
+</div>
+
 <br>
 <br>
 <div class="info-container" align="center">
