@@ -4,7 +4,7 @@
         <h1><b>Hi! 👋</b></h1>
     </div>
     <div class="about-me-info">
-        <p>I'm Ben, an 18 year old DTS Apprentice 💻 currently working at <a href="https://www.resonate.tech/">Resonate Ltd</a> and enrolled
+        <p>I'm Ben, a 19 year old DTS Apprentice 💻 currently working at <a href="https://www.resonate.tech/">Resonate Ltd</a> and enrolled
             in <a href="https://www.schoolofcode.co.uk/">School of Code Bootcamp 13 🔭<br></a>
         I specialise in Frontend development, but I'm hoping to become a Full-Stack developer in the future.</p>
         <br>
