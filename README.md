@@ -34,6 +34,10 @@
         <img src="./images/icons8-git-50.png" alt="Git">
         <img src="./images/icons8-github-50.png" alt="GitHub">
         <img src="./images/icons8-postman-api-50.png" alt="Postman">
+        <img src="./images/icons8-sass-50.png" alt="Sass">
+        <img src="./images/icons8-terraform-50.png" alt="Terraform">
+        <img src="./images/icons8-angular-50.png" alt="Angular">
+        <img src="./images/icons8-java-50.png" alt="Java">
     </div>
 <br>
     <div class="learning">
