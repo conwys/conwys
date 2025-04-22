@@ -4,9 +4,10 @@
         <h1><b>Hi! 👋</b></h1>
     </div>
     <div class="about-me-info">
-        <p>I'm Ben, a 19 year old DTS Apprentice 💻 currently working at <a href="https://www.resonate.tech/">Resonate Ltd</a> and enrolled
+        <p>I'm Ben, a 21 year old DTS Apprentice 💻 currently working at <a href="https://www.resonate.tech/">Resonate Ltd</a> and previously enrolled
             in <a href="https://www.schoolofcode.co.uk/">School of Code Bootcamp 13 🔭<br></a>
-        I specialise in Frontend development, but I'm hoping to become a Full-Stack developer in the future.</p>
+        I used to specialise in Front-end development, but now I have began to move towards becoming a DevOps Engineer.
+        I have built an impressive skillset with AWS, Terraform, Ansible, CloudFormation, and many other toolsets.</p>
         <br>
         <h3 align="center">Connect with me 🤝</h3>
     </div>
@@ -44,7 +45,7 @@
         <h3>What I'm learning 🌱</h3>
     </div>
     <div class="learning-stack-container">
-        <img src="./images/icons8-lua-language-50.png">
+        <p>N/A</p>
     </div>
 </div>
 <br>
